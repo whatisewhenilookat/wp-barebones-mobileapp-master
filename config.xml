@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.agameoftwohalves.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.whatiseewhenilookat.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
     <name>what i see when test app</name>
     <description>Latest from the project</description>
-    <author email="chris@" href="http://www.whatiseewhenilookat.com">AGOTH Webmaster</author>
+    <author email="rob@" href="http://www.whatiseewhenilookat.com">AGOTH Webmaster</author>
 
     <preference name="phonegap-version" value="3.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
