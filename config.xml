@@ -3,7 +3,7 @@
     
     <name>what i see when test app</name>
     <description>Latest from the project</description>
-    <author email="chris@" href="http://www.whatiseewhenilookat.com.com">AGOTH Webmaster</author>
+    <author email="chris@" href="http://www.whatiseewhenilookat.com">AGOTH Webmaster</author>
 
     <preference name="phonegap-version" value="3.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
